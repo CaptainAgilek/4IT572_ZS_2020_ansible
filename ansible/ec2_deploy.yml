@@ -10,7 +10,7 @@
         region: us-east-1
         key_name: test
         vpc_subnet_id: subnet-da8ef1d4
-        assign_public_id: yes
+        assign_public_ip: yes
         wait: yes
         count: 1
         group: eshop
